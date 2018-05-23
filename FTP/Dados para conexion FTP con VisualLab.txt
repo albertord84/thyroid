@@ -1,0 +1,6 @@
+Servidor: sftp.ic.uff.br
+Porta: 22
+usuário: visual
+senha:  FtpServ_2015
+
+/home/projetos/visual/public_html

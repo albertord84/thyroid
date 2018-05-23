@@ -1,0 +1,12 @@
+Apuntes para banco de dados de tireoides
+
+Cosas a hacer
+
+	1. Adicionar en comun/top.php las siguientes lineas al final
+		if($web2=="Thyroid")
+        include("menuthyroid.php");
+	y sobreescribir las dos ultimas por estas
+		if($web2!="Erasmus" && $web2!="Procad" && $web2!="Procad-NF" && $web2!="Proeng" && $web2!="Cardio" && $web2!="Thyroid")
+			include("menu.php"); 
+			
+	2.

@@ -1,0 +1,17 @@
+	
+	- Sitio del banco de imagenes de tiroides en Ingles y Español
+	- Terminos de uso, si alguier usa debe referenciar nuestros trabajos
+	- Dar la posibilidad de descargar las imagenes a usuarios registrados y que concordaron con los términos de uso
+	- Poner fotos de los médicos del CV Lates del proyecto de las tiroides y poner en el sitio de las tiroides
+	- Poner el aplicativo para hacer Ground Truth
+	- Colocar mis artículos, trabjos y softwares en el sitio
+	- Atualizar com as novas imagens
+	- Colocar a nova ferramenta para fazer Ground truth
+	- Colocar o ground truth tanto em imagens quantos os arquivos de com as bordas gerados em matlab
+	- Colocar o texto do capítulo do libro e o artigo para MedInfo 2017
+	
+	
+	- Concertar LOCALIÇÃO 
+	- botar cabeçalio na tabela das imagens
+	- concertar link da pagina onde estão as descrições do significado dos dados recoletados do ultrassom
+	- substituir coordinação por coordenação
